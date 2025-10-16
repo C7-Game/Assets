@@ -1,0 +1,17 @@
+Unit: Black Hospitaller Swordsman - Recolored by Vuldacon January 7, 2014
+Original Hospitaller Swordsman Unit by utahjazz7
+
+By Request, I recolored this Hospitaller Swordsman Unit to use the more authentic 
+Black Cloth and Clothes.
+
+No Civ Specific Colors
+
+I Recolored the Unit so the Civ Specific Colors use shades of black 
+then made a new Palette for the Flcs.
+
+Remade the Civilopededia Large and Small .pcx files and made a New units_32.pcx
+
+The Unit Credit goes to utahjazz7. 
+
+Cheers,
+Vuldacon
