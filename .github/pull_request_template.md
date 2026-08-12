@@ -6,9 +6,9 @@ This repository is for usable OpenCiv3 game assets and their associated data onl
 - [ ] For each separately sourced asset or set of assets, I have included or updated credits in each affected directory's `README.md` file containing the asset name or filename(s), source (URL if possible), any known license or attribution information, and if any modifications were made.
 
 # Original Work
-- [ ] I hereby grant free use of original assets I have created under [CC-BY-NC-4.0.](https://creativecommons.org/licenses/by-nc/4.0/)
+- [ ] I hereby grant free use of original assets I have created under [CC-BY-NC-SA-4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - [ ] Any new assets have been included in at least the highest-quality usable format as described in [contributing.md](contributing.md), to the extent possible.
-- [ ] (Recommended) I have included the raw working files used to produce my assets, if any, preferably in the formats recommended in [contributing.md](contributing.md).
+- [ ] (Recommended) I have included the raw working files used to produce my assets, if any, preferably in the formats recommended in [the wiki](https://github.com/C7-Game/Assets/wiki/Asset-Guidelines).
 
 # General
 - [ ] I have included only assets (or their corresponding metadata and working files) that are usable now in OpenCiv3, or will be usable with a current OpenCiv3 PR. No assets for future use only.
