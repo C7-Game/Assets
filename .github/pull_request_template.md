@@ -7,7 +7,7 @@ This repository is for usable OpenCiv3 game assets and their associated data onl
 
 # Original Work
 - [ ] I hereby grant free use of original assets I have created under [CC-BY-NC-SA-4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-- [ ] Any new assets have been included in at least the highest-quality usable format as described in [contributing.md](contributing.md), to the extent possible.
+- [ ] Any new assets have been included in at least the highest-quality usable format as described in [the wiki](https://github.com/C7-Game/Assets/wiki/Asset-Guidelines) to the extent possible.
 - [ ] (Recommended) I have included the raw working files used to produce my assets, if any, preferably in the formats recommended in [the wiki](https://github.com/C7-Game/Assets/wiki/Asset-Guidelines).
 
 # General
