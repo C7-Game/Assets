@@ -1,4 +1,4 @@
-Copyright Disclaimer: No rights are claimed by this project to any copyrighted content not owned or created by this project. Wherever possible, such content is credited to its original creator with any known license terms in a corresponding CREDIT.txt in the content directory. 
+Copyright Disclaimer: No rights are claimed by this project to any copyrighted content not owned or created by this project. Wherever possible, such content is credited to its original creator with any known license terms in a corresponding README in the content directory. 
 We have made a best-effort attempt in good faith to vet and properly attribute all third-party assets used in the project, to ensure that:
   - content is free and open-source compliant;
   - content not explicitly licensed is credited to its respective authors and reused in the spirit of its original publication.
