@@ -31,4 +31,5 @@ Credits format for README.md (note each line ends with two spaces for line break
 {URL of download page}  
 {specify any known license or other terms by the creator}  
 {indicate any modifications to the original files}  
+___
 ```
